@@ -1,22 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shoaib Ali Bhat</h1>
-<div align="center">
 
-<h2>☁️ CLOUD & DEVOPS</h2>
-
-<p>
-  AWS • TERRAFORM • LINUX • PYTHON • GIT • MONITORING
+<p align="center">
+  <img src="./cloudimage.png" width="100%" alt="Cloud and DevOps banner"/>
 </p>
 
-</div>
-
----
 <h3 align="center">Aspiring Cloud & DevOps Engineer ☁️</h3>
 
 <p align="center">
   Building my skills in cloud infrastructure, automation, and monitoring.
 </p>
-
----
 
 ### 👨‍💻 About Me
 
@@ -44,8 +36,6 @@
 ### 🎯 My Goal
 
 To become a skilled Cloud & DevOps Engineer by building practical projects, learning consistently, and documenting my journey.
-
----
 
 <p align="center">
   <i>Learn. Build. Break. Fix. Repeat. 🚀</i>
